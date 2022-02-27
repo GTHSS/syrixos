@@ -179,12 +179,14 @@
     width: auto;
     margin-right: 416px;
     margin-left: auto;
+    position: fixed;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
     margin-top: 22px;
     margin-left: 481px;
+    position: fixed;
   }
 
   .u-section-1 .u-text-3 {
@@ -192,6 +194,7 @@
     margin-top: 27px;
     margin-right: 414px;
     margin-left: auto;
+    position: fixed;
   }
 
   .u-section-1 .u-text-4 {
@@ -199,12 +202,14 @@
     margin-top: 11px;
     margin-right: 414px;
     margin-left: auto;
+    position: fixed;
   }
 
   .u-section-1 .u-text-5 {
     width: auto;
     margin-top: 23px;
     margin-left: 471px;
+    position: fixed;
   }
 
   .u-section-1 .u-text-6 {
@@ -212,6 +217,7 @@
     margin-top: 16px;
     margin-right: 446px;
     margin-left: auto;
+    position: fixed;
   }
 
   .u-section-1 .u-btn-2 {
