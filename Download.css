@@ -32,7 +32,7 @@
 .u-section-1 .u-line-1 {
   height: 57px;
   top: 81px;
-  position: absolute;
+  position: fixed;
   width: 3px;
   transform-origin: center top 0px;
   left: 471px;
@@ -41,7 +41,7 @@
 .u-section-1 .u-line-2 {
   height: 57px;
   top: 191px;
-  position: absolute;
+  position: fixed;
   width: 3px;
   transform-origin: center top 0px;
   text-align: left;
@@ -51,7 +51,7 @@
 .u-section-1 .u-line-3 {
   height: 57px;
   top: 287px;
-  position: absolute;
+  position: fixed;
   width: 3px;
   transform-origin: center top 0px;
   text-align: left;
