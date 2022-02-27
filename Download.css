@@ -33,6 +33,7 @@
   top: 81px;
   position: absolute;
   width: 3px;
+  text-align: left;
   transform-origin: center top 0px;
   left: 471px;
 }
